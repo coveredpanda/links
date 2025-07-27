@@ -141,7 +141,7 @@ links:
 
     # WORDPRESS
   - Name: WordPress.org
-    URL: ''
+    URL: 
     Username: 
     Icon-Class: fa-brands fa-wordpress-simple
     Color: '#0073AA'
@@ -165,7 +165,7 @@ links:
 
     # PEERLIST
   - Name: Peerlist
-    URL: ''
+    URL: 
     Username: 
     Icon-Class: fa-solid fa-p
     Color: '#18aa4a'
